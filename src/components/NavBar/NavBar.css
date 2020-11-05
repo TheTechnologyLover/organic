@@ -1,0 +1,10 @@
+.nav-bar {
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+}
+
+.home:hover{
+  cursor: pointer;
+  position:inline-block;
+}
